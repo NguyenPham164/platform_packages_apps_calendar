@@ -1,11 +1,5 @@
-.gradle
-.idea
-bin
-build
-gen
-local.properties
-*.DS_Store
-*~
-*.swp
-*.swo
-*.iml
+bin/
+gen/
+.project
+res/.DS_Store
+res/drawable-hdpi/.DS_Store
